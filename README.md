@@ -20,7 +20,7 @@ Follow these instructions to set up and run the project locally.
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/sona-24/TaskManager.git
+git clone https://github.com/sona-24/Task-Manager.git
 cd task-manager-frontend
 npm install
 npm start
